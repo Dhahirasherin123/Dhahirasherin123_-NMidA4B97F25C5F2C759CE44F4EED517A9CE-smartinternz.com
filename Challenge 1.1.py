@@ -7,4 +7,4 @@ def factorial(n):
 
 Num = int(input("enter the value : "))
 res = factorial(Num)
-print("the factorial of {} is {}".format(Num, res))
+print("the factorial of {} is{}".format(Num, res))
