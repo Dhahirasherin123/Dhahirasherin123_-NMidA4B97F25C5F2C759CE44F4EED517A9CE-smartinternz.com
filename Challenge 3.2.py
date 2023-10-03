@@ -27,6 +27,5 @@ sorted_students = sort_students(students)
 
 # Print the sorted list of students
 for student in sorted_students:
-  print("Name: {}, Roll Number: {}, CGPA: {}".format(student.name,
-                                                     student.roll_number,
-                                                     student.cgpa))
+  print("Name: {}, Roll Number: {}, CGPA: {}".format(student.name,student.roll_number,                                                     student.cgpa))
+                                                
